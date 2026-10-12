@@ -24,6 +24,10 @@ Open **[the latest release](https://github.com/hap67/hap67-sd2-mod-studio-releas
 
 SD2 Mod Studio will always be free. While it is in alpha, each version stops working 90 days after it was built; the app warns you 14 days and again 2 days before. The time limits are there to avoid support requests for outdated software as much as possible, and they will be removed in version 1.0. When a version expires, download the latest one here: nothing you made is lost.
 
+## File format notes
+
+Open notes on SD2 Mod Studio's own files (`.sd2units`, `.sd2unit`, `.sd2pkg`, `.sd2mod`, `.sd2div`, `.sd2bg`), for other modders and tool authors: **[docs/formats](docs/formats/README.md)**. Unlike the rest of this repository, these notes are licensed CC BY 4.0.
+
 ## Support
 
 Support time is very limited: the developer has a full-time job. Please use the latest version and read the in-app help (press **?** or **F1**) first. Contact: https://www.5th-imperium.com/support/
@@ -32,5 +36,5 @@ Only the latest version is supported. Please don't open issues here.
 
 ---
 
-© 2026 5th Imperium. All rights reserved. See [LICENSE](LICENSE).
+© 2026 5th Imperium. All rights reserved. See [LICENSE](LICENSE); the file format notes in `docs/formats` are CC BY 4.0.
 Steel Division 2 is a game by Eugen Systems. SD2 Mod Studio is not made or endorsed by Eugen Systems.
